@@ -1,0 +1,24 @@
+.bg{
+
+    margin-top: 7%;
+    width: 90%;
+    margin: 5%;
+    height: auto;
+    background-color: #9d9d9d
+}
+
+.title-bg{
+    background-color: #9d9d9d;
+    height: auto;
+    padding: 1%;
+
+}
+.title-cell{
+    height: 100%;
+    width: 100%;
+    background-color: silver;
+    border: 3px dotted slategray;
+    padding:2%;
+    margin-left: 0%;
+}
+
